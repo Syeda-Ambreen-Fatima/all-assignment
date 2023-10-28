@@ -1,0 +1,121 @@
+<!DOCTYPE  html>
+      <html  lang="en">
+  <head>
+          <meta chardset="UTF-8">
+          <meta name="viewport"  content="width=device-width, initial-scale=1.0">
+          <title>My Portfolio</title>
+ <body>
+ <b> <table border="5" height="1150"  width="780"></b>
+ 
+ <tr>
+ <td width="200">
+ 
+  
+  <h2><center>Personal Information</center></h2>
+
+<hr size="4px" color="black">
+
+ <b><p><i>Age</i> </br> 000</P></b> 
+ 
+ 
+ <b><p><i>Gender</i> </br> Female</P></b> 
+
+  
+ <b><p><i>Language</i></br>
+ Urdu & English </br>(Bilingual)</P></b></br> 
+ 
+ <hr size="4px" color="black">
+ 
+ 
+  
+  <h2><center>Nationality</center></h2>
+ <b><p><i>Country</i> </br> Pakistan</P></b> 
+ 
+ 
+ <b><p><i>City/State</i> </br> Karachi</P></b> 
+
+ <hr size="4px"color="black">
+ 
+  <h2><center>Contact Us</center></h2>
+ <b><p><i>Whatsapp</i> </br> 03008252052</P></b> 
+ 
+ <b><p><i>Email</i> </br>123@example.com </P></b> 
+ 
+ 
+ <hr size="4px" color = "black">
+   <h2><center>Follow Me</center></h2>
+ <b><p><i>Facebook</i> </br> fb.com/wb_dvp</P></b> 
+ 
+ 
+ <b><p><i>Linkdin</i> </br>ld.com/wb_dvp</P></b> 
+
+  
+ <b><p><i>Twitter</i></br>
+       123@wb_dvp.com </P></b>
+ 
+ 
+ <b><p><i>Instagram</i></br>
+       123@wb_dvp.com </P></b> 
+ 
+ 
+ 
+ 
+ 
+  </td>
+
+ 
+ 
+<td>     <center><p><font size="9">SYEDA AMBREEN</font></br>
+     <font size="5">WEB DESIGNER</font></p></center></br>
+      
+      <div>
+      
+ 
+      <h2><font color="red" font size="5"><center>About Me</center> </h2>   
+  <p><font color="green">I am Syeda Ambreen, a student of Ma'am  Shafaq, and I'm enthusiastic about working on computer.My main interest lies web designing,where I dedicate my time and energy for perfecting my skils in this field.</p>
+  </div>
+  
+  <div>
+ <h2><font color="red"size="5"><center>Educational criteria</center></h2> 
+ <ul>
+ <font color="green"><li>Education:Graduated with a BA</li>
+ <li>High Schooling:attended London Grammer School</li>
+ </ul>
+ </div>
+ 
+ <div>
+<h2><font size="5"color="red"><center>Experties</center></h2>  
+<ul>
+<font color="green">
+<li>Enterpreneureship</li>
+<li>Web development</li>
+<li>Education</li>
+<li>Culinary Proficiency</li>
+<li>Fitness</li>
+</ul>  
+</div>
+
+<div>
+<h2><font color="red" size="5"><center>Goals</center></h2>
+<ul><font color="green">
+<li>Mastery in Business</li>
+<li>Proficiency in Business and IT Programming</li>
+</ul> 
+</div>
+
+</td> 
+ </tr>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ </table>
+ 
+ 
+ 
+ 
+ 
+ </body>
